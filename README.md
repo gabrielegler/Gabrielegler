@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas vindas 👻​🤍​
 
-<!--
-**gabrielegler/Gabrielegler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabriel Egler Pnheiro
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- EStou me desenvolvendo na linguagem programação 
+- Ultiliso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+- ## Você pode entrar em contado comigo ​🗿​
+ 
+- Gabriel.egler.pinheiro@escola.pr.gov.br
+
+- @bielzin_ep
+
+![](https://media.tenor.com/X80LhsTgNTAAAAAM/sukuna-gojo.gif)
+
+![](https://media.tenor.com/bgc-_Af2WaAAAAAM/naoya-naoya-zenin.gif)
+
+![](https://media.tenor.com/HTkz_dAdv8IAAAAM/mahito-curse-pure-cursed-energy-hands.gif)
